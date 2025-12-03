@@ -1,6 +1,6 @@
 # Dear Data 100 – Daily Calorie Intake
 
-This Processing sketch visualises 100+ observations of my daily calorie intake over time.
+This Processing sketch visualises 49 observations of my daily calorie intake over time.
 
 The data was collected using the iOS Notes app and later formatted into a CSV file.
 
